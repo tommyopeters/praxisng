@@ -303,7 +303,6 @@ a.f_mail:hover {
 	/*background:url(../images/bdr1.jpg) no-repeat left bottom;*/
 	display:inline-block;
 	font-family: 'Raleway', sans-serif;
-*/
 }
 .text_block p {
 	margin:0;
@@ -346,6 +345,7 @@ a.f_mail:hover {
 	margin:0 0 0 0;
 	padding:0 18px;
 }
+
 .s_block_icon {
 	width:90px;
 	height:90px;
@@ -733,8 +733,8 @@ a.right {float: left; margin: 2px;}
 .product:hover .productinn h2{color:#0A0A0A;}
 
 .productinn{float:left;}
-.productinn h2{font-size:24px; color:#00000; font-weight:300;}
-.productinn h2{font-size:24px; color:#00000; font-weight:300;}
+.productinn h2{font-size:24px; color:#000000; font-weight:300;}
+.productinn h2{font-size:24px; color:#000000; font-weight:300;}
 
 .service_warp {
     float: left;
@@ -795,6 +795,7 @@ a.right {float: left; margin: 2px;}
     font-size: 12px;
 	text-decoration:none;
 }
+
 
 .serv_block2 a:hover {
     color: #000;
