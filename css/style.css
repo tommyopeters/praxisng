@@ -1561,3 +1561,11 @@ textarea.m_height { height:150px !important;}
 
 
 
+/* Adjustments */
+
+.naved >li > ul > li > ul > li > ul {
+	display: none;
+}
+.naved >li > ul > li > ul > li:hover > ul {
+	display: block;
+}
