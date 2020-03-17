@@ -34,3 +34,6 @@
   width: 100%;
   top: 21%; */
 }
+.wb_banner.portfolio_banner {
+  min-height: 200px;
+}
