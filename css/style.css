@@ -485,7 +485,7 @@ button.callback:hover {
   padding-top: 6%;
 }
 .rw_testmonial {
-  padding: 5% 0;
+  padding: 2% 0;
   background: url(../images/test.jpg) no-repeat left top;
   background-attachment: fixed;
   background-size: cover;
@@ -1984,4 +1984,12 @@ textarea.m_height {
 }
 .portfolio_text p {
   text-align: justify;
+}
+
+.testimonials .portfolio-image {
+  height: 468px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
